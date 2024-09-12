@@ -1,2 +1,2 @@
-# track_learn_js
+# LEARNING : JAVASCRIPT
 Repo for Learning JS.
